@@ -35,7 +35,9 @@ Patrick Holsey
 **Acknowledgments**
 
 Hill, Stephen. Building a Basic, In-Game Win Probability Model for the NFL. Medium.com, 2017. 
+
 ESPN.com NFL Gamecast and Play-by-Play. Five-Thirty-Eight NFL Win Probability Pre-Game and In-Game. https://www.espn.com/nfl/game/_/gameId/401547421/giants-cardinals
+
 Haddad, Chris. Difference Between Play Action & RPO In Football. vIQtorysports.com, 2024. https://www.viqtorysports.com/play-action-rpo-read-option/#:~:text=The%20difference%20between%20the%20play,confusing%20to%20the%20naked%20eye
 
 **License**
