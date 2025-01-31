@@ -4,7 +4,7 @@
 
 Recreation of New York Giants win probability for Week 2 of the 2023 season vs Arizona Cardinals using a logistic equation. Given necessary factors, this win probability model can be used in any in-game scenario. Logit model includes derivation of new factor "Play-Action Impact" which increased the Giants chances of winning. 
 
-Logit model with "play-action impact" factor correctly predicted 92% of total game win probability as compared to ESPN's win probability model. Without "play-action impact" factor, logit model predicted only 85% of total game win probability as compared to ESPN's model.
+Logit model with "play-action impact" factor correctly predicted 92% of total game win probability as compared to ESPN's win probability model (Std. deviation 0.6748 and z-score value 0.682). Without "play-action impact" factor, logit model predicted only 85% of total game win probability as compared to ESPN's model.
 
 **Background**
 
